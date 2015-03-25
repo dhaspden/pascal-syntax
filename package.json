@@ -1,0 +1,10 @@
+{
+  "name": "dhaspden",
+  "version": "1.0.0",
+  "title": "Pascal Syntax Highlighting",
+  "description": "Pascal Syntax for the Brackets editor.",
+  "homepage": "https://github.com/dhaspden/pascal-syntax",
+  "author": "Dylan Aspden <dhaspden@gmail.com> (http://dhaspden.com)",
+  "license": "MIT",
+  "keywords": ["pascal", ".pas", "syntax", "highlighting"]
+}
