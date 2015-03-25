@@ -7,13 +7,13 @@ This extension introduces Pascal syntax highlighting to the editor.  The syntax 
 ```pascal
 program SampleProgram;
 var
-sampleVariable : Integer;
+    sampleVariable : Integer;
 
 begin
-for sampleVariable := 1 to 10 do
-begin
-Writeln(sampleVariable);
-end;
+    for sampleVariable := 1 to 10 do
+    begin
+        Writeln(sampleVariable);
+    end;
 end.
 ```
 
